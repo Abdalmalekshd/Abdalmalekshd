@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdalmalekshd
-- 👀 I’m interested in web design 
+- 👀 I’m interested in web 
 - 🌱 I’m currently learning Back end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
