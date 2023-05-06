@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdalmalekshd
 - 👀 I’m interested in web 
-- 🌱 I’m currently learning Back end
+- 🌱 I’m a Back end developer
 - 💞️ I’m looking to collaborate on some Laravel projects
 - 📫 How to reach me My TG:(@Abod_Sharaf_AlDeen) ... My Phone (+96345259824) 
 
